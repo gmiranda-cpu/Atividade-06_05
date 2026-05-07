@@ -2,7 +2,7 @@
 
 Projeto acadêmico desenvolvido utilizando:
 
-- Java
+- Python
 - SQLite
 - MVC
 - UML
